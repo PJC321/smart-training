@@ -24,6 +24,5 @@ So far, our challenges were only backend-related. This time we’ll play with so
 
 * https://www.reddit.com/r/rails/comments/lfbomu/archeology_what_was_there_before_sprockets/
 * https://www.ombulabs.com/blog/learning/webpack/webpack-vs-sprockets.html
-* https://rossta.net/blog/why-does-rails-install-both-webpacker-and-sprockets.html
 * https://medium.com/@coorasse/goodbye-sprockets-welcome-webpacker-3-0-ff877fb8fa79
 * https://getbootstrap.com/docs/5.1/getting-started/introduction/
