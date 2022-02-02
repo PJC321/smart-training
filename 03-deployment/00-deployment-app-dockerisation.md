@@ -1,4 +1,4 @@
-# Docker: App dockerisation
+# Deployment: App dockerisation
 
 In this challenge, we’ll dockerise our application. **Docker** is extremely useful, helps to build and manage your infrastructure. It allows you to package up an application or service with all of its dependencies into a standardised unit.
 
