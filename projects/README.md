@@ -20,3 +20,7 @@ When a learner starts an activity using [Techmap](https://graph.techmap.app):
 3. All issues in the project directory are added to their `smartflix` repo, and tracked into their Github Project.
 
 When a learner completes a project (see the [Training documentation](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects) for how), they can select a new activity on Techmap from whichever activities they've unlocked.
+
+## I want to make a project!
+
+Cool! Use the [template](./template.md) to get started.
