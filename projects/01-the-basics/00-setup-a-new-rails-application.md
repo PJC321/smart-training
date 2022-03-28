@@ -1,7 +1,11 @@
 # Setup a new Rails application
 
+## Outcomes
+
 - Rails/MVC Pattern
 - Rails/Routing
+
+## Description
 
 Welcome to the Smartflix Basics project!
 

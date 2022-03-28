@@ -1,7 +1,11 @@
 # Render shows to the homepage
 
+## Outcomes
+
 - Rails/File processing
 - Rails/Haml
+
+## Description
 
 You have just set up a Rails application with a test-driven dummy view! 🎉
 

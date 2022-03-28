@@ -1,6 +1,10 @@
 # Deploy the app to Heroku using Git
 
+## Outcomes
+
 - Deployment/Heroku
+
+## Description
 
 In the previous ticket, you styled the homepage that lists all the movies in the provided CSV.
 

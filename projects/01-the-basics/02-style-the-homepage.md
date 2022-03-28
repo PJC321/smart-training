@@ -1,7 +1,11 @@
 # Style the homepage
 
+## Outcomes
+
 - Rails/Bootstrap
 - Rails/Sass
+
+## Description
 
 In the previous ticket, you created an unstyled homepage that loads and displays data from the [provided CSV file](../training-data/netflix_titles.zip).
 

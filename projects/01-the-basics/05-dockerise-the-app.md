@@ -1,6 +1,10 @@
 # Dockerise the app
 
+## Outcomes
+
 - Deployment/Docker
+
+## Description
 
 In the previous ticket, deployed your app to Heroku using Git.
 

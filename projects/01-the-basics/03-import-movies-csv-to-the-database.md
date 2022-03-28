@@ -1,7 +1,11 @@
 # Import the movies CSV into the database
 
+## Outcomes
+
 - Rails/Console
 - Rails/Rake
+
+## Description
 
 You've built a Bootstrap-styled homepage displaying all the movies in the [provided CSV file](../training-data).
 
