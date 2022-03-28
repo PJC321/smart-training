@@ -1,73 +1,50 @@
 # Training
 
-Congratulations on completing onboarding! The next step of your journey is to complete **training**. By the end of training, you will be a **[junior developer](../progression/trainee/README.md)** you will be able to say (and evidence) the following:
+Congratulations on completing onboarding! The next step of your journey is to complete **training**. By the end of training, you will be a **Junior Developer** you will be able to say (and evidence) the following:
 
-- Top-level goal 1 (could be a workflow)
-- Top-level goal 2 (could be a workflow)
-- Top-level goal 3 (could be a workflow)
-- Top-level goal 4 (could be a workflow)
-- Top-level goal 5 (could be a workflow)
+- I can build a tested, robust, scalable Rails application.
+- I can apply Smart workflows and idioms during development.
+- I can collaborate and grow myself and other developers.
 
-> :construction: note to curriculum designers – I've added a couple more goal slots here you can fill. Keep it below 5 (3 is best). Think of goals as "positive statements I can say about myself", objectives as "more detailed breakdowns of the TLG", and activities as "a given way to evidence an objective".
+## How do I get promoted?
 
-Just as with [onboarding](../onboarding/README.md), We've decomposed these top-level goals into a list of objectives. You can evidence these objectives however you want. If you want some guidance, we've paired each objective with an activity: completing the activity counts as evidencing the objective.
+By providing **credible evidence** that you've hit the top-level goals.
 
-## Top-level goal 1
+You can evidence hitting these goals however you want. For instance:
 
-This goal means the following thing: (goal in plain words anyone could understand). In context, this means you will be able to (which superpowers this goal will unlock).
+- Completing a tickets that demonstrates you can build a tested Rails feature.
+- Contributing to internal documentation or blogging about how Smart uses units to organise the model layer.
+- Screenshotting a great coaching conversation on Slack.
 
-| Objective  | Detail  | Activities  |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+As part of Smart Academy, we've prepared a set of projects (on [Techmap](https://graph.techmap.app)) that cover all the skills we'd expect to see as part of credibly hitting these goals. It's a great place to start.
 
-## Top-level goal 2
+## What do the goals mean?
 
-This goal means the following thing: (goal in plain words anyone could understand). In context, this means you will be able to (which superpowers this goal will unlock).
+## I can build a tested, robust, scalable Rails application.
 
-| Objective  | Detail  | Activities  |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+Hitting this goal means you can turn a set of requirements into high-quality, tested code using the Rails framework in such a way as it stays fast, stable, and responsive. In the context of your work, this means you will be able to contribute high-quality features within a Smart feature team.
 
-## Top-level goal 3
+## I can apply Smart workflows and idioms during development.
 
-This goal means the following thing: (goal in plain words anyone could understand). In context, this means you will be able to (which superpowers this goal will unlock).
+Hitting this goal means you can work alongside colleagues at Smart to build high-quality features using a shared set of approaches. In the context of your work, this means your contributions will spend less time in review, and you and your team will spend more time shipping.
 
-| Objective  | Detail  | Activities  |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+## I can collaborate and grow myself and other developers.
 
-## Top-level goal 4
+Hitting this goal means you care about and are able to help yourself and others grow at Smart. In the context of your work, this means your (and your colleagues') skills and career will develop faster, and Smart will overall be a fun, growth-y place to work.
 
-This goal means the following thing: (goal in plain words anyone could understand). In context, this means you will be able to (which superpowers this goal will unlock).
+## FAQ
 
-| Objective  | Detail  | Activities  |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+#### What is a "trainee developer"?
+A trainee developer has completed onboarding and is ready to begin training on topics and workflows used at Smart Pension.
 
-## Top-level goal 5
+#### What is a "junior developer"?
+A junior developer has completed Smart Academy training and is ready to begin work in a feature team.
 
-This goal means the following thing: (goal in plain words anyone could understand). In context, this means you will be able to (which superpowers this goal will unlock).
+#### Is there a time limit?
+We'd expect you to be a junior developer within 3–6 months of starting at Smart Pension.
 
-| Objective  | Detail  | Activities  |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+#### What is the "progression meeting"?
+When you feel that you are ready to qualify as a junior developer, book a meeting with your **Enginering manager**. The meeting is an informal discussion where the following will happen:
+- Your manager will take a look at your evidence against the top-level goals.
+- You'll discuss any areas in which you're feeling less confident.
+- If you both agree that there's enough evidence against the framework and you're ready to progress, you'll progress to junior developer.
