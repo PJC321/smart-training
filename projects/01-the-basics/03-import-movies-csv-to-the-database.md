@@ -35,6 +35,7 @@ Feel free to rename the properties to follow conventions.
 - [ ] Rewrite your controller and view to use the database-backed models, instead of reading from the CSV.
 
 ## Tips
+
 - When generating a model, you should always check (and amend) the generated migration file before running it.
 - Rails applications default to using a lightweight in-memory database called `sqlite`. You won't need this any more, so you can remove references to `sqlite` from your application (for example, in the `Gemfile`).
 - Since shows can only be one of two types ('Movie' or 'TV Show'), consider using a [Rails enum](https://betterprogramming.pub/how-to-use-enums-in-rails-6-87600e292476) for the show type. You may need to [generate a Rails migration](https://guides.rubyonrails.org/active_record_migrations.html#creating-a-standalone-migration) to do this!
