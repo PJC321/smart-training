@@ -23,7 +23,7 @@ Issues are organised into projects, which are represented on a graph in Techmap:
 
 To start a project:
 
-1. Get an invite from your engineering manager to [Techmap](https://graph.techmap.app).
+1. Get an invite from your line manager to [Techmap](https://graph.techmap.app).
 2. When you log in, you will be prompted to duplicate this repository along with various projects and issues.
 3. Click on any unlocked node to begin the project.
 
