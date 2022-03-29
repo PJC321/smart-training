@@ -24,4 +24,5 @@ Here's how it should look by the end of this ticket:
 - [ ] Pass the acceptance test by displaying all shows from the [provided CSV file](../training-data/netflix_titles.zip) file.
 
 ## Tips
+
 - There are a lot of shows in the [provided CSV file](../training-data/netflix_titles.zip)! You may need to limit the number you render to the view.
