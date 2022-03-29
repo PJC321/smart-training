@@ -15,11 +15,11 @@ Smart developers join the company, and go through two [gated](./training/README.
 
 This repo works alongside [Techmap](https://graph.techmap.app) to give you a ready-to-go workspace repo on Github and a clear sequence of issues to work through:
 
-(Image of project board)
+![Github project](../projects/images/github-project.png)
 
 Issues are organised into projects, which are represented on a graph in Techmap:
 
-(Image of Techmap projects)
+![Techmap projects](../projects/images/techmap.png)
 
 To start a project:
 
