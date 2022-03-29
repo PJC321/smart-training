@@ -1,6 +1,6 @@
 # The Basics
 
-Learn the basics by creating a homepage for SmartFlix!
+Learn the basics by creating a homepage for Smartflix!
 
 When you're done, you'll have a beautiful, styled homepage showing a list of movies stored in a database, deployed on Heroku with Docker.
 
