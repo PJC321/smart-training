@@ -29,7 +29,7 @@ To start a project:
 
 Each project contains several issues. To complete a project:
 
-1. Pick an ticket from the list of issues in Github.
+1. Pick a ticket from the list of issues in Github.
 2. Create a new branch for the ticket, **starting the branch name with the issue number**. For instance, the branch for issue `#1 Create Rails Application` could be called `1-create-rails-app`, or `1-setup-rails`, or `1-do-the-thing`. So long as it starts with the issue number, your progress will be tracked.
 3. Complete the ticket.
 4. Create a pull request to your `main` branch for the ticket. This will promote the ticket to the "in Review" column, which triggers a notification in the #coaching Slack channel.
