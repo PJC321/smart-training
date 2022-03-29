@@ -1,6 +1,6 @@
 # Projects
 
-Smart Academy is organised into a set of **projects**, which each contain several **issues**. Issues are tagged with **labels** that represent the skills. All progress is tracked using p[Techmap](https://graph.techmap.app).
+Smart Academy is organised into a set of **projects**, which each contain several **issues**. Issues are tagged with **labels** that represent the skills. All progress is tracked using [Techmap](https://graph.techmap.app).
 
 ## What's in this folder?
 
