@@ -21,5 +21,5 @@ Your main responsibility is to make sure that trainees receive **timely** and **
 
 ## What should I do right now?
 
-- Join the #coaching channel on Slack.
+- Join the #smart-academy-reviewers channel on Slack.
 - Reach out to either [Grzegorz](grzegorz.unijewski@smartpension.co.uk) or [Sam](sam@x27.dev) on Slack to have a little intro chat.
